@@ -5,7 +5,6 @@ This project takes two input first as birth date and second number, then it will
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
-<li>Reactjs</li>
 </ol>
 <h1>Below is the attached screenshot:</h1>
 <img src="https://user-images.githubusercontent.com/105977388/190911265-2bc8d489-6439-42c1-9ed4-40f5fba22751.png"/>
